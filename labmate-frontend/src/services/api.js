@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://labmate-backend-u7dd.onrender.com/api";
 
 const getToken = () => localStorage.getItem("token");
 
